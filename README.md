@@ -1,8 +1,4 @@
-# Machine Learning Assignment 1 — Polynomial Regression
-
-**Student:** Vinay Kusumanchi  
-**Roll No:** IMT2023608  
-**Course:** Machine Learning
+# Machine Learning Assignment 1 - Polynomial Regression
 
 ## Overview
 
